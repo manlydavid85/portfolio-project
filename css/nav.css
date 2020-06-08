@@ -1,0 +1,29 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+.jumbotron {
+    padding: 30px;
+    background-image: linear-gradient(to right, grey, grey, white);
+    color: white;
+    margin: 0;
+}
+.logo{
+    width: 20px;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: bold;
+}
